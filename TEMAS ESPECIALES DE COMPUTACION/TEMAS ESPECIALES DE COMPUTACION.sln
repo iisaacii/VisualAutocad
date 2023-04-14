@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SEMINARIO DE CAD", "SEMINARIO DE CAD\SEMINARIO DE CAD.vbproj", "{3BB8A6C6-4C03-4887-838E-BA7A98AB6E8F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CAD2023-1", "..\..\..\semestre 2023-1\CLASE DE CAD\CAD2023-1\CAD2023-1.vbproj", "{568532B8-9850-41A0-A63B-CBD51FA6642E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB8A6C6-4C03-4887-838E-BA7A98AB6E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB8A6C6-4C03-4887-838E-BA7A98AB6E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB8A6C6-4C03-4887-838E-BA7A98AB6E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB8A6C6-4C03-4887-838E-BA7A98AB6E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568532B8-9850-41A0-A63B-CBD51FA6642E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568532B8-9850-41A0-A63B-CBD51FA6642E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568532B8-9850-41A0-A63B-CBD51FA6642E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568532B8-9850-41A0-A63B-CBD51FA6642E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A0B38AC-D3E3-473A-AFC9-9E8F7D9CA8FF}
+	EndGlobalSection
+EndGlobal
